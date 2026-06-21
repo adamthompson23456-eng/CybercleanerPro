@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "type": "feature",
+      "title": "Welcome to the Security Center",
+      "body": "This is where CyberCleanerPro posts security alerts, protection tips, and new-feature news. Check back regularly to stay protected.",
+      "date": "2026-06-22",
+      "url": ""
+    },
+    {
+      "type": "tip",
+      "title": "Run a Deep Scan every week",
+      "body": "Open AI Security Scan and choose Deep Scan to check Tamper Protection, drive encryption, suspicious processes and startup load.",
+      "date": "2026-06-22",
+      "url": ""
+    },
+    {
+      "type": "alert",
+      "title": "Stay alert for phishing emails",
+      "body": "Never click links in unexpected emails. Use the Email Intelligence tab to check suspicious messages before you act.",
+      "date": "2026-06-22",
+      "url": ""
+    }
+  ]
+}
