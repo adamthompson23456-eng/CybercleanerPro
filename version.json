@@ -1,8 +1,8 @@
 {
-  "version": "2026.2",
-  "notes": "New in 2026.2:\n• MRT — one-click Microsoft Malware Removal Tool\n• Self-updating app with automatic rollback safety\n• Faster scans and stability fixes",
+  "version": "2026.4",
+  "notes": "New in 2026.4:\n• One-click auto-update (no GitHub redirect)\n• MRT — Microsoft Malware Removal Tool\n• Reliable installer with automatic rollback\n• Speed & stability improvements",
   "url": "https://github.com/adamthompson23456-eng/CybercleanerPro",
   "exe_url": "https://raw.githubusercontent.com/adamthompson23456-eng/CybercleanerPro/main/CyberCleanerPro_AI_Pro.exe",
-  "sha256": "04aeda46b4d1d2e8b8b04476154ee79473530a485d3ff08e278ab516afb61ff5",
+  "sha256": "66bafb42700034443e1095eea622c192bbd9a3b8065fb47e6e3ee8ed525fcc46",
   "mandatory": false
 }
