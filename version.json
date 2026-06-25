@@ -1,6 +1,8 @@
 {
-  "version": "2026.1",
-  "notes": "You're on the latest version. (Bump this number and edit these notes when you release a new EXE — every customer will be prompted to download it.)",
-  "url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases",
+  "version": "2026.2",
+  "notes": "New in 2026.2:\n• MRT — one-click Microsoft Malware Removal Tool\n• Self-updating app with automatic rollback safety\n• Faster scans and stability fixes",
+  "url": "https://github.com/adamthompson23456-eng/CybercleanerPro",
+  "exe_url": "https://raw.githubusercontent.com/adamthompson23456-eng/CybercleanerPro/main/CyberCleanerPro_AI_Pro.exe",
+  "sha256": "5b8c8b4ab20c4f787f8762b3bc9c0d9c63678d9a9177aeb51abeafdf0389f9bf",
   "mandatory": false
 }
