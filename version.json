@@ -1,0 +1,8 @@
+{
+  "version": "2026.1",
+  "notes": "You're on the latest version. When you release a new EXE: bump 'version', set 'exe_url' to the direct .exe download link (e.g. a GitHub Release asset), and 'sha256' to its checksum. Customers then get one-click Download & Install.",
+  "url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases",
+  "exe_url": "",
+  "sha256": "",
+  "mandatory": false
+}
