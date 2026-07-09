@@ -1,8 +1,8 @@
 {
-  "version": "2026.15",
-  "notes": "New in 2026.15:\n• 🛡 Live protection score now shown top-right on every screen\n• ✨ Studio interface — calmer premium look with clearer hierarchy\n• 🧭 Active-tab highlight so you always know where you are\n• 🌈 Animated launch splash & smooth page transitions\n• 💿 Automatic Deep Disk Cleanup — clears every Windows junk category in one tap",
+  "version": "2026.19",
+  "notes": "New in 2026.19:\n• Security Command Center — redesigned dashboard: defense mesh radar, verified protection layers, rapid response & security intelligence panels\n• Trial countdown badge always visible in the header\n• New shield branding\n• Crash-hardening: fixed a rare silent-exit bug in the packaged app",
   "url": "https://github.com/adamthompson23456-eng/CybercleanerPro",
   "exe_url": "https://raw.githubusercontent.com/adamthompson23456-eng/CybercleanerPro/main/CyberCleanerPro_AI_Pro.exe",
-  "sha256": "fa3855dd6716928193b1bbec4ebe300bfe9682d0528e7d550fd3207968a74633",
+  "sha256": "8f9e147597ec7b5455ca4e29d420147542f075ea69cd1200b02f663d3bd21e40",
   "mandatory": false
 }
