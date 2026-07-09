@@ -1,8 +1,8 @@
 {
-  "version": "2026.14",
-  "notes": "New in 2026.14:\n• 💿 Automatic Deep Disk Cleanup — auto-selects EVERY Windows Disk Cleanup category & deletes silently, no window to tick boxes\n• Clears Windows Update, thumbnails, error reports, crash dumps, delivery optimization, all caches + empties the Recycle Bin\n• 📡 Authentic AI Security Radar dashboard\n• 🧠 Threat Intelligence in plain English\n• 🖥 Silent operation — no background command windows",
+  "version": "2026.15",
+  "notes": "New in 2026.15:\n• 🛡 Live protection score now shown top-right on every screen\n• ✨ Studio interface — calmer premium look with clearer hierarchy\n• 🧭 Active-tab highlight so you always know where you are\n• 🌈 Animated launch splash & smooth page transitions\n• 💿 Automatic Deep Disk Cleanup — clears every Windows junk category in one tap",
   "url": "https://github.com/adamthompson23456-eng/CybercleanerPro",
   "exe_url": "https://raw.githubusercontent.com/adamthompson23456-eng/CybercleanerPro/main/CyberCleanerPro_AI_Pro.exe",
-  "sha256": "7ec93d11a0670aabfe7c0379eea8b306bc0c30d8bbfca52369e190b751b86b8f",
+  "sha256": "fa3855dd6716928193b1bbec4ebe300bfe9682d0528e7d550fd3207968a74633",
   "mandatory": false
 }
