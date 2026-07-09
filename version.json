@@ -1,8 +1,8 @@
 {
-  "version": "2026.1",
-  "notes": "You're on the latest version. When you release a new EXE: bump 'version', set 'exe_url' to the direct .exe download link (e.g. a GitHub Release asset), and 'sha256' to its checksum. Customers then get one-click Download & Install.",
-  "url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases",
-  "exe_url": "",
-  "sha256": "",
+  "version": "2026.14",
+  "notes": "New in 2026.14:\n• 💿 Automatic Deep Disk Cleanup — auto-selects EVERY Windows Disk Cleanup category & deletes silently, no window to tick boxes\n• Clears Windows Update, thumbnails, error reports, crash dumps, delivery optimization, all caches + empties the Recycle Bin\n• 📡 Authentic AI Security Radar dashboard\n• 🧠 Threat Intelligence in plain English\n• 🖥 Silent operation — no background command windows",
+  "url": "https://github.com/adamthompson23456-eng/CybercleanerPro",
+  "exe_url": "https://raw.githubusercontent.com/adamthompson23456-eng/CybercleanerPro/main/CyberCleanerPro_AI_Pro.exe",
+  "sha256": "7ec93d11a0670aabfe7c0379eea8b306bc0c30d8bbfca52369e190b751b86b8f",
   "mandatory": false
 }
