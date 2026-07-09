@@ -1,8 +1,8 @@
 {
-  "version": "2026.19",
-  "notes": "New in 2026.19:\n• Security Command Center — redesigned dashboard: defense mesh radar, verified protection layers, rapid response & security intelligence panels\n• Trial countdown badge always visible in the header\n• New shield branding\n• Crash-hardening: fixed a rare silent-exit bug in the packaged app",
-  "url": "https://github.com/adamthompson23456-eng/CybercleanerPro",
-  "exe_url": "https://raw.githubusercontent.com/adamthompson23456-eng/CybercleanerPro/main/CyberCleanerPro_AI_Pro.exe",
-  "sha256": "8f9e147597ec7b5455ca4e29d420147542f075ea69cd1200b02f663d3bd21e40",
+  "version": "2026.1",
+  "notes": "You're on the latest version. When you release a new EXE: bump 'version', set 'exe_url' to the direct .exe download link (e.g. a GitHub Release asset), and 'sha256' to its checksum. Customers then get one-click Download & Install.",
+  "url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases",
+  "exe_url": "",
+  "sha256": "",
   "mandatory": false
 }
