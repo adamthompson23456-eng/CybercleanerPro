@@ -1,8 +1,8 @@
 {
-  "version": "2026.21",
-  "notes": "New in 2026.21:\n\u2022 Fixed license status \u2014 fresh installs correctly show trial days left instead of a false Lifetime label\n\u2022 Removed repeated \"call now\" nags that fired after every scan\n\u2022 Added a privacy promise: your files stay private, never uploaded or sold\n\u2022 Fixed auto-update \u2014 the update files went missing from our server; restored and hardened so this can't silently fail again\n\u2022 Stability improvements",
+  "version": "2026.22",
+  "notes": "New in 2026.22:\n• 📅 Book a Callback & 💬 Live Chat right from the app\n• 🇦🇺 Australia toll-free support: 03 9013 6677 (plus our US line)\n• 🖥 One-tap secure Remote Support via UltraViewer — you approve every session\n• 🆔 Copy your Machine ID in one click for activation or moving your license\n• 🧹 Gentle one-time reminder to clean up when junk passes 1 GB",
   "url": "https://cybercleanernorton.netlify.app/#download",
   "exe_url": "https://raw.githubusercontent.com/adamthompson23456-eng/CybercleanerPro/main/CyberCleanerPro_AI_Pro.exe",
-  "sha256": "aa5c097af7a46f0e264f338093a1cf585468afff15f39d0b4d68f8e00b7a1c54",
+  "sha256": "5854bef0d7d5a8df3f8d4868795b196f4eb9c92b8bde9ebd130f84d32a796247",
   "mandatory": false
 }
