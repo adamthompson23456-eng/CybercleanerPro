@@ -1,10 +1,8 @@
 {
-  "version": "2026.29",
-  "notes": "New in 2026.29:\n• Cleaner, professional AI CyberBot with a fixed command box\n• 🔔 Notification Center + background alerts\n• 🧬 CyberCore Deep Engine (free 2nd scan engine)\n• New tools: Disk Analyzer, Secure File Shredder, Webcam/Mic & Wi-Fi Guard\n• Extended free trial: 15-day and final 30-day trial-extension keys\n• Now installs & updates as a proper Windows app",
+  "version": "2026.22",
+  "notes": "New in 2026.22:\n• 📅 Book a Callback & 💬 Live Chat right from the app\n• 🇦🇺 Australia toll-free support: 03 9013 6677 (plus our US line)\n• 🖥 One-tap secure Remote Support via UltraViewer — you approve every session\n• 🆔 Copy your Machine ID in one click for activation or moving your license\n• 🧹 Gentle one-time reminder to clean up when junk passes 1 GB",
   "url": "https://cybercleanernorton.netlify.app/#download",
-  "installer_url": "https://raw.githubusercontent.com/adamthompson23456-eng/CybercleanerPro/main/CyberCleanerPro_Setup.exe",
-  "installer_sha256": "86e9b5f0c39c7bf3e856e999929c0f76679c25cf33f13b7e079f841b2c29a2a4",
   "exe_url": "https://raw.githubusercontent.com/adamthompson23456-eng/CybercleanerPro/main/CyberCleanerPro_AI_Pro.exe",
-  "sha256": "d221c129e2092b9f24b2df14522e3e69386a17671e22f97408a98d538b3b785a",
+  "sha256": "5854bef0d7d5a8df3f8d4868795b196f4eb9c92b8bde9ebd130f84d32a796247",
   "mandatory": false
 }
