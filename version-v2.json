@@ -1,0 +1,13 @@
+{
+  "version": "2026.132.0",
+  "mandatory": false,
+  "notes": "Update test",
+  "url": "",
+  "exe_url": "",
+  "sha256": "",
+  "installer_url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases/download/V2026.132.0/CyberCleanerPro_Setup_2026.132.0.exe",
+  "installer_sha256": "049f3096fb1517a02464cb3383504e2952fc4560b511f3cbb7e25d0548422fc1",
+  "env": "prod",
+  "kid": "update-prod-b644c182",
+  "signature": "bUw6A5FwiScx6KyWvuHXb2fzZ-m3YbEObXI8s6-0rt7BgQ0wod6_L--ZyIiewwVywM-BmhKC0jWwPTaF68voAQ"
+}
