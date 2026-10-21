@@ -1,13 +1,13 @@
 {
-  "version": "2026.137.15",
+  "version": "2026.137.16",
   "mandatory": false,
-  "notes": "Fixes dark screens, upgrade messages, alerts and licence activation",
+  "notes": "Fixes repeated admin prompts, scan freezing and Smart Scan opening by itself.",
   "url": "",
   "exe_url": "",
   "sha256": "",
-  "installer_url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases/download/V2026.137.15/CyberCleanerPro_Update_2026.137.15.exe",
-  "installer_sha256": "fc79f53cd4c40a3cbbb4f52b7489414f74e13326b4bfb68b70058ceac554edac",
+  "installer_url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases/download/V2026.137.16/CyberCleanerPro_Update_2026.137.16.exe",
+  "installer_sha256": "b3a76c6622b35f3b88b563fd77e9c176a8979920ff62a77d0489aae1ba56e02c",
   "env": "prod",
   "kid": "update-prod-40b5d4e7",
-  "signature": "1124_qIXjcq7g6LY4iy1amS46_WOGtne-LA-YCvIPFuCevK89lw69VopR0vsEp4LAXZz-xfCi49uWHMyu_WXDQ"
+  "signature": "syB2G_Mwp0D9wzEWa6G4BbQ411hEn7UmBYNAhInp1gZbShPxQtuYWtuzlNYIfLGfPm1DuDvGh_qkPqanFzPCBA"
 }
