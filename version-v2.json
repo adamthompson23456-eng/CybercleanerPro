@@ -1,13 +1,13 @@
 {
-  "version": "2026.137.16",
+  "version": "2026.137.32",
   "mandatory": false,
-  "notes": "Fixes repeated admin prompts, scan freezing and Smart Scan opening by itself.",
+  "notes": "A cleaner, faster, steadier CyberCleaner: everything fits on one screen, Smart Scan and freeze fixes, clearer licence messages",
   "url": "",
   "exe_url": "",
   "sha256": "",
-  "installer_url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases/download/V2026.137.16/CyberCleanerPro_Update_2026.137.16.exe",
-  "installer_sha256": "b3a76c6622b35f3b88b563fd77e9c176a8979920ff62a77d0489aae1ba56e02c",
+  "installer_url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases/download/V2026.137.32/CyberCleanerPro_Update_2026.137.32.exe",
+  "installer_sha256": "1d42a8568941d037b3a281a4e937d23beaf1ec3d48f3e6abfdf5a08ed0428cd6",
   "env": "prod",
   "kid": "update-prod-40b5d4e7",
-  "signature": "syB2G_Mwp0D9wzEWa6G4BbQ411hEn7UmBYNAhInp1gZbShPxQtuYWtuzlNYIfLGfPm1DuDvGh_qkPqanFzPCBA"
+  "signature": "LaAkXifoTtrMK7QRdOzuKfGkNktxxDNnpm5g_LITjWPQKB7mhwBeoEVvMSsSJGy82QWEYEC07yOpdow_RXD1AQ"
 }
