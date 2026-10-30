@@ -1,8 +1,13 @@
 {
-  "version": "2026.137.0",
+  "version": "2026.137.34",
   "mandatory": false,
-  "notes": "Updates paused by the owner (2026-10-30). Unsigned on purpose: every app ignores it.",
+  "notes": "CyberCleaner Pro 2026.137.34: safer, more reliable updates",
+  "url": "",
+  "exe_url": "",
+  "sha256": "",
+  "installer_url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases/download/V2026.137.34/CyberCleanerPro_Update_2026.137.34.exe",
+  "installer_sha256": "949cfa7d194f4d381be8d721376084f4bceb82896f0ac7e51df1d479f56f6d53",
   "env": "prod",
-  "kid": "",
-  "signature": ""
+  "kid": "update-prod-40b5d4e7",
+  "signature": "y5r_YLohypmgsUgr_JB5Zf6L3Ao5jfaSwnxtpL9vcA65eqH89M5Vef0B21vZSKNXtDQsO7V_DpswTXxFoXcJDw"
 }
