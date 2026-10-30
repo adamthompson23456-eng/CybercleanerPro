@@ -1,13 +1,13 @@
 {
-  "version": "2026.137.32",
+  "version": "2026.137.33",
   "mandatory": false,
-  "notes": "A cleaner, faster, steadier CyberCleaner: everything fits on one screen, Smart Scan and freeze fixes, clearer licence messages",
+  "notes": "CyberCleaner Pro 2026.137.33: updates now install reliably",
   "url": "",
   "exe_url": "",
   "sha256": "",
-  "installer_url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases/download/V2026.137.32/CyberCleanerPro_Update_2026.137.32.exe",
-  "installer_sha256": "1d42a8568941d037b3a281a4e937d23beaf1ec3d48f3e6abfdf5a08ed0428cd6",
+  "installer_url": "https://github.com/adamthompson23456-eng/CybercleanerPro/releases/download/V2026.137.33/CyberCleanerPro_Update_2026.137.33.exe",
+  "installer_sha256": "9ffb2263cb42f00991fb0559a8db9cf6c15df97e484db1eaaef87b60be40c39d",
   "env": "prod",
   "kid": "update-prod-40b5d4e7",
-  "signature": "LaAkXifoTtrMK7QRdOzuKfGkNktxxDNnpm5g_LITjWPQKB7mhwBeoEVvMSsSJGy82QWEYEC07yOpdow_RXD1AQ"
+  "signature": "LRUGUTAM86kwx6ecQwK55WvFzoKtnJTSRUXetsV9EMLFvIGNoa0xW6Ep1yzOx2jWJeRtAbT_SXZOYm0HmBQmAA"
 }
